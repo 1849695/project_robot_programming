@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target grid_map[0m
-[ 25%] [32mBuilding CXX object src/basis_stuff/CMakeFiles/grid_map.dir/grid_map.cpp.o[0m
-[ 50%] [32m[1mLinking CXX shared library /home/lattinone/catkin_ws/your_workspace/devel/.private/ros_controller/lib/libgrid_map.so[0m
-[ 50%] Built target grid_map
-[35m[1mScanning dependencies of target node_gridmap[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/node_gridmap.dir/src/node_gridmap.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/lattinone/catkin_ws/your_workspace/devel/.private/ros_controller/lib/ros_controller/node_gridmap[0m
-[100%] Built target node_gridmap

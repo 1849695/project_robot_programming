@@ -1,6 +1,0 @@
-devel_space: /home/lattinone/catkin_ws/your_workspace/devel
-install: false
-install_space: /home/lattinone/catkin_ws/your_workspace/install
-profile: default
-source_space: /home/lattinone/catkin_ws/your_workspace/src
-workspace: /home/lattinone/catkin_ws/your_workspace
