@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgrid_map.so -o /home/lattinone/catkin_ws/your_workspace/devel/.private/ros_controller/lib/libgrid_map.so CMakeFiles/grid_map.dir/grid_map.cpp.o 

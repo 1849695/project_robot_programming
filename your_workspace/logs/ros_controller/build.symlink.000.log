@@ -1,0 +1,5 @@
+Symlinking /home/lattinone/catkin_ws/your_workspace/devel/share/ros_controller/cmake/ros_controllerConfig.cmake
+Symlinking /home/lattinone/catkin_ws/your_workspace/devel/share/ros_controller/cmake/ros_controllerConfig-version.cmake
+Symlinking /home/lattinone/catkin_ws/your_workspace/devel/lib/libgrid_map.so
+Symlinking /home/lattinone/catkin_ws/your_workspace/devel/lib/ros_controller/node_gridmap
+Symlinking /home/lattinone/catkin_ws/your_workspace/devel/lib/pkgconfig/ros_controller.pc
