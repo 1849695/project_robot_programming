@@ -1,2 +1,0 @@
-ros_pkg
--DCATKIN_DEVEL_PREFIX=/home/lattinone/Desktop/project_robot_programming/devel -DCMAKE_INSTALL_PREFIX=/home/lattinone/Desktop/project_robot_programming/install -G Unix Makefiles
