@@ -1,8 +1,0 @@
-prefix=/home/lattinone/Desktop/project_robot_programming/devel
-
-Name: ros_pkg
-Description: Description of ros_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
